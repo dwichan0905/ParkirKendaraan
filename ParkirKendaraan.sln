@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkirCustomer", "ParkirCustomer\ParkirCustomer.csproj", "{4954C78C-93C1-4E3C-8F3B-CB715BA31F3A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParkirOperator", "ParkirOperator\ParkirOperator.csproj", "{A59FC793-097E-4F9F-82C1-BE5CC61456C6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4954C78C-93C1-4E3C-8F3B-CB715BA31F3A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4954C78C-93C1-4E3C-8F3B-CB715BA31F3A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4954C78C-93C1-4E3C-8F3B-CB715BA31F3A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4954C78C-93C1-4E3C-8F3B-CB715BA31F3A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A59FC793-097E-4F9F-82C1-BE5CC61456C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A59FC793-097E-4F9F-82C1-BE5CC61456C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A59FC793-097E-4F9F-82C1-BE5CC61456C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A59FC793-097E-4F9F-82C1-BE5CC61456C6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

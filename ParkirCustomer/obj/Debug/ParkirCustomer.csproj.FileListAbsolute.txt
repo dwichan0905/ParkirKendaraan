@@ -1,0 +1,62 @@
+c:\users\secret net\documents\visual studio 2013\Projects\ParkirKendaraan\ParkirCustomer\bin\Debug\ParkirCustomer.exe.config
+c:\users\secret net\documents\visual studio 2013\Projects\ParkirKendaraan\ParkirCustomer\bin\Debug\ParkirCustomer.exe
+c:\users\secret net\documents\visual studio 2013\Projects\ParkirKendaraan\ParkirCustomer\bin\Debug\ParkirCustomer.pdb
+c:\users\secret net\documents\visual studio 2013\Projects\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.csprojResolveAssemblyReference.cache
+c:\users\secret net\documents\visual studio 2013\Projects\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.Properties.Resources.resources
+c:\users\secret net\documents\visual studio 2013\Projects\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.csproj.GenerateResource.Cache
+c:\users\secret net\documents\visual studio 2013\Projects\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.exe
+c:\users\secret net\documents\visual studio 2013\Projects\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.pdb
+c:\users\secret net\documents\visual studio 2013\Projects\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.frmMain.resources
+c:\users\secret net\documents\visual studio 2013\Projects\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.frmPassword.resources
+c:\users\secret net\documents\visual studio 2013\Projects\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.frmConfig.resources
+c:\users\secret net\documents\visual studio 2013\Projects\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.frmKaryawan.resources
+D:\Studies\Kuliahan\3\Pemrograman .NET\Tugas\Tugas Akhir\ParkirKendaraan\ParkirCustomer\bin\Debug\ParkirCustomer.exe.config
+D:\Studies\Kuliahan\3\Pemrograman .NET\Tugas\Tugas Akhir\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.exe
+D:\Studies\Kuliahan\3\Pemrograman .NET\Tugas\Tugas Akhir\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.pdb
+D:\Studies\Kuliahan\3\Pemrograman .NET\Tugas\Tugas Akhir\ParkirKendaraan\ParkirCustomer\bin\Debug\ParkirCustomer.exe
+D:\Studies\Kuliahan\3\Pemrograman .NET\Tugas\Tugas Akhir\ParkirKendaraan\ParkirCustomer\bin\Debug\ParkirCustomer.pdb
+D:\Studies\Kuliahan\3\Pemrograman .NET\Tugas\Tugas Akhir\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.csprojResolveAssemblyReference.cache
+D:\Studies\Kuliahan\3\Pemrograman .NET\Tugas\Tugas Akhir\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.frmConfig.resources
+D:\Studies\Kuliahan\3\Pemrograman .NET\Tugas\Tugas Akhir\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.frmMain.resources
+D:\Studies\Kuliahan\3\Pemrograman .NET\Tugas\Tugas Akhir\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.frmKaryawan.resources
+D:\Studies\Kuliahan\3\Pemrograman .NET\Tugas\Tugas Akhir\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.frmPassword.resources
+D:\Studies\Kuliahan\3\Pemrograman .NET\Tugas\Tugas Akhir\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.Properties.Resources.resources
+D:\Studies\Kuliahan\3\Pemrograman .NET\Tugas\Tugas Akhir\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.csproj.GenerateResource.Cache
+F:\ParkirKendaraan\ParkirCustomer\bin\Debug\ParkirCustomer.exe.config
+F:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.exe
+F:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.pdb
+F:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.csprojResolveAssemblyReference.cache
+F:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.csproj.GenerateResource.Cache
+F:\ParkirKendaraan\ParkirCustomer\bin\Debug\ParkirCustomer.exe
+F:\ParkirKendaraan\ParkirCustomer\bin\Debug\ParkirCustomer.pdb
+F:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.frmConfig.resources
+F:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.frmMain.resources
+F:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.frmKaryawan.resources
+F:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.frmPassword.resources
+F:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.Properties.Resources.resources
+E:\ParkirKendaraan\ParkirCustomer\bin\Debug\ParkirCustomer.exe.config
+E:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.exe
+E:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.pdb
+E:\ParkirKendaraan\ParkirCustomer\bin\Debug\ParkirCustomer.exe
+E:\ParkirKendaraan\ParkirCustomer\bin\Debug\ParkirCustomer.pdb
+E:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.csprojResolveAssemblyReference.cache
+E:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.frmConfig.resources
+E:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.frmMain.resources
+E:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.frmKaryawan.resources
+E:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.frmPassword.resources
+E:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.Properties.Resources.resources
+E:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.csproj.GenerateResource.Cache
+E:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.frmInfo.resources
+G:\ParkirKendaraan\ParkirCustomer\bin\Debug\ParkirCustomer.exe.config
+G:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.exe
+G:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.pdb
+G:\ParkirKendaraan\ParkirCustomer\bin\Debug\ParkirCustomer.exe
+G:\ParkirKendaraan\ParkirCustomer\bin\Debug\ParkirCustomer.pdb
+G:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.csprojResolveAssemblyReference.cache
+G:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.frmConfig.resources
+G:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.frmInfo.resources
+G:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.frmMain.resources
+G:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.frmKaryawan.resources
+G:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.frmPassword.resources
+G:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.Properties.Resources.resources
+G:\ParkirKendaraan\ParkirCustomer\obj\Debug\ParkirCustomer.csproj.GenerateResource.Cache

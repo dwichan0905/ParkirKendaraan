@@ -1,0 +1,30 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="ParkirCustomer.Properties" GeneratedClassName="Settings">
+  <Profiles />
+  <Settings>
+    <Setting Name="Server" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CHAN386\SQLEXPRESS</Value>
+    </Setting>
+    <Setting Name="DBName" Type="System.String" Scope="User">
+      <Value Profile="(Default)">parkir</Value>
+    </Setting>
+    <Setting Name="tarifper" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">1</Value>
+    </Setting>
+    <Setting Name="tarifmotor" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">2000</Value>
+    </Setting>
+    <Setting Name="tarifmobil" Type="System.Int32" Scope="User">
+      <Value Profile="(Default)">3000</Value>
+    </Setting>
+    <Setting Name="header1" Type="System.String" Scope="User">
+      <Value Profile="(Default)">CV PERMATA INDAH II</Value>
+    </Setting>
+    <Setting Name="header2" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Jl. Jend. Sudirman 25 Jakarta Barat</Value>
+    </Setting>
+    <Setting Name="footer" Type="System.String" Scope="User">
+      <Value Profile="(Default)">Terimakasih atas kunjungan Anda.</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>

@@ -1,0 +1,64 @@
+c:\users\secret net\documents\visual studio 2013\Projects\ParkirKendaraan\ParkirOperator\bin\Debug\ParkirOperator.exe.config
+c:\users\secret net\documents\visual studio 2013\Projects\ParkirKendaraan\ParkirOperator\bin\Debug\ParkirOperator.exe
+c:\users\secret net\documents\visual studio 2013\Projects\ParkirKendaraan\ParkirOperator\bin\Debug\ParkirOperator.pdb
+c:\users\secret net\documents\visual studio 2013\Projects\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirOperator.frmLogin.resources
+c:\users\secret net\documents\visual studio 2013\Projects\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirOperator.Properties.Resources.resources
+c:\users\secret net\documents\visual studio 2013\Projects\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirOperator.csproj.GenerateResource.Cache
+c:\users\secret net\documents\visual studio 2013\Projects\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirOperator.exe
+c:\users\secret net\documents\visual studio 2013\Projects\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirOperator.pdb
+c:\users\secret net\documents\visual studio 2013\Projects\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirOperator.csprojResolveAssemblyReference.cache
+c:\users\secret net\documents\visual studio 2013\Projects\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirOperator.frmMain.resources
+D:\Studies\Kuliahan\3\Pemrograman .NET\Tugas\Tugas Akhir\ParkirKendaraan\ParkirOperator\bin\Debug\ParkirOperator.exe.config
+D:\Studies\Kuliahan\3\Pemrograman .NET\Tugas\Tugas Akhir\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirOperator.exe
+D:\Studies\Kuliahan\3\Pemrograman .NET\Tugas\Tugas Akhir\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirOperator.pdb
+F:\ParkirKendaraan\ParkirOperator\bin\Debug\ParkirOperator.exe.config
+F:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirOperator.exe
+F:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirOperator.pdb
+F:\ParkirKendaraan\ParkirOperator\bin\Debug\ParkirOperator.exe
+F:\ParkirKendaraan\ParkirOperator\bin\Debug\ParkirOperator.pdb
+F:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirOperator.csprojResolveAssemblyReference.cache
+F:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmFormulirKaryawan.resources
+F:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmFormulirOperator.resources
+F:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmKaryawan.resources
+F:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmLogin.resources
+F:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmMain.resources
+F:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmOperator.resources
+F:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.Properties.Resources.resources
+F:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirOperator.csproj.GenerateResource.Cache
+F:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmConfig.resources
+E:\ParkirKendaraan\ParkirOperator\bin\Debug\ParkirOperator.exe.config
+E:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirOperator.exe
+E:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirOperator.pdb
+E:\ParkirKendaraan\ParkirOperator\bin\Debug\ParkirOperator.exe
+E:\ParkirKendaraan\ParkirOperator\bin\Debug\ParkirOperator.pdb
+E:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirOperator.csprojResolveAssemblyReference.cache
+E:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmConfig.resources
+E:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmFormulirKaryawan.resources
+E:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmFormulirOperator.resources
+E:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmKaryawan.resources
+E:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmLogin.resources
+E:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmMain.resources
+E:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmOperator.resources
+E:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.Properties.Resources.resources
+E:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirOperator.csproj.GenerateResource.Cache
+E:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmAbout.resources
+E:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmTransaksi.resources
+G:\ParkirKendaraan\ParkirOperator\bin\Debug\ParkirOperator.exe.config
+G:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirOperator.exe
+G:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirOperator.pdb
+G:\ParkirKendaraan\ParkirOperator\bin\Debug\ParkirOperator.exe
+G:\ParkirKendaraan\ParkirOperator\bin\Debug\ParkirOperator.pdb
+G:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirOperator.csprojResolveAssemblyReference.cache
+G:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmAbout.resources
+G:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmConfig.resources
+G:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmFormulirKaryawan.resources
+G:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmFormulirOperator.resources
+G:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmKaryawan.resources
+G:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmLogin.resources
+G:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmMain.resources
+G:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmOperator.resources
+G:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmTransaksi.resources
+G:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.Properties.Resources.resources
+G:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirOperator.csproj.GenerateResource.Cache
+E:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmEditPengguna.resources
+E:\ParkirKendaraan\ParkirOperator\obj\Debug\ParkirCustomer.frmKuotaManager.resources
